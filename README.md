@@ -1,2 +1,2 @@
 # Test
-Testing Git
+Testing Git with source tree
